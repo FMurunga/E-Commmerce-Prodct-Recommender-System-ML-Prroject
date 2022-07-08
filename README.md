@@ -11,3 +11,4 @@ A Machine Learning Project to improve customer purchase experience through produ
 <li>have a model to categorise products correctly since there might be some wrongly categorised products in those platforms</li>
 <li>A product categorisation model is used to catch those products and place them back into their right categories to improve overall user experience on the platform.</li>
 <h3> Output: Applied K-means algorithm to generate product clusters that are used to recommend products within the same clusters</h3>
+<img src="https://user-images.githubusercontent.com/20658442/178017338-7f40d00b-3705-49ae-aef0-a79824163332.png"></img>
