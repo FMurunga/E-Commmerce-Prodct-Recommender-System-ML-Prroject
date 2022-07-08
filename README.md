@@ -1,6 +1,8 @@
 # E-Commerce-Product-Recommender-System-ML-Project
-A Machine Learning Project to improve customer purchase experience through product recommendations during purchase on an ecommerce website
+
 <img src="https://user-images.githubusercontent.com/20658442/178013467-10e263c8-5f97-4a2a-b36a-28ff0b524bee.png"></img>
+
+A Machine Learning Project to improve customer purchase experience through product recommendations during purchase on an ecommerce website
 <h2>Objectives</h2>
 <li>Build a performing product recommender and categorisation model using ecommerce purchases data</li>
 <h4>Overview</h5>
